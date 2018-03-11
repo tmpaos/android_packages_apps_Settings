@@ -5096,7 +5096,7 @@
       <item quantity="other">Kameraprogramme</item>
       <item quantity="one">Kameraprogram</item>
     </plurals>
-    <string name="default_calendar_app_title" msgid="1870095225089706093">"Kalenderprogram"</string>
+    <string name="default_calendar_app_title" msgid="1870095225089706093">"Kalenaxiomrogram"</string>
     <string name="default_contacts_app_title" msgid="7740028900741944569">"Kontakteprogram"</string>
     <plurals name="default_email_app_title" formatted="false" msgid="8338194872609410234">
       <item quantity="other">E-poskliëntprogramme</item>
