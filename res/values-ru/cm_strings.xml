@@ -31,7 +31,7 @@
     <string name="backup_transport_title">Выберите поставщика резервного копирования</string>
     <string name="berry_black_theme_title">Натурально черный</string>
     <string name="berry_black_theme_summary">Натурально черный фон для темной темы</string>
-    <string name="lineagelicense_title">Политика конфиденциальности LineageOS</string>
+    <string name="lineagelicense_title">Политика конфиденциальности AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Коснитесь для сна</string>
     <string name="status_bar_double_tap_to_sleep_summary">Дважды коснитесь строки состояния или экрана блокировки, чтобы перевести устройство в спящий режим</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Найдите сканер отпечатков пальцев на вашем планшете.</string>

@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="show_dev_on_cm">ئىجادكارلار تەڭشەكلىرىنى قوزغاتتىڭىز!</string>
     <string name="show_dev_already_cm">ھاجەتسىز، سىز ئاللىبۇرۇن ئىجادكارلار تەڭشەكلىرىنى قوزغاتقان.</string>
-    <string name="lineagelicense_title">LineageOS قانۇن ئۇچۇرى</string>
+    <string name="lineagelicense_title">AxiomOS قانۇن ئۇچۇرى</string>
     <string name="increasing_ring_volume_option_title">قوڭغۇراق ئاۋازىنى تەدرىجىي كۈچەيتىش</string>
     <string name="increasing_ring_min_volume_title">باشلاش ئاۋازى</string>
     <string name="increasing_ring_ramp_up_time_title">كۈچەيتىش ۋاقتى</string>

@@ -23,7 +23,7 @@
     <string name="show_dev_already_cm">Net nedich jo hawwe de opsjes foar ûntwikkelers al ynskeakele.</string>
     <string name="adb_enable_root">Root-debugging</string>
     <string name="adb_enable_summary_root">Android-debugging as root tastean</string>
-    <string name="lineagelicense_title">Juridyske ynformaasje fan LineageOS</string>
+    <string name="lineagelicense_title">Juridyske ynformaasje fan AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Dûbeld tikke foar sliepstân</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dûbeld tikke op de steatbalke of beskoattelskerm om it skerm út te skeakeljen</string>
     <string name="increasing_ring_volume_option_title">Tanimmend belfolume</string>

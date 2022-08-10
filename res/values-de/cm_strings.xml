@@ -29,7 +29,7 @@
     <string name="backup_transport_title">Backup-Anbieter auswählen</string>
     <string name="berry_black_theme_title">Reines Schwarz</string>
     <string name="berry_black_theme_summary">Rein schwarzer Hintergrund für dunkles Design</string>
-    <string name="lineagelicense_title">Rechtliche Hinweise zu LineageOS</string>
+    <string name="lineagelicense_title">Rechtliche Hinweise zu AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Tippen für Standby</string>
     <string name="status_bar_double_tap_to_sleep_summary">Doppeltippe auf Statusleiste oder Sperrbildschirm, um das Display auszuschalten</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Finde den Fingerabdrucksensor auf der Vorderseite deines Tablets.</string>

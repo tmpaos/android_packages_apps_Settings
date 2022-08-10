@@ -29,7 +29,7 @@
     <string name="backup_transport_title">Nüsxələmə provayderini seç</string>
     <string name="berry_black_theme_title">Təmiz qara</string>
     <string name="berry_black_theme_summary">Tünd tema üçün təmiz qara arxaplan</string>
-    <string name="lineagelicense_title">LineageOS qanuni</string>
+    <string name="lineagelicense_title">AxiomOS qanuni</string>
     <string name="status_bar_double_tap_to_sleep_title">Yuxlatmaq üçün toxun</string>
     <string name="status_bar_double_tap_to_sleep_summary">Ekranı söndürmək üçün vəziyyət sətrinə və ya kilid ekranına cüt toxunun</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Planşetinizin ön tərəfindəki barmaq izi sensorunu tapın.</string>

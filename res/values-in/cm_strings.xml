@@ -26,7 +26,7 @@
     <string name="backup_transport_title">Pilih penyedia cadangan</string>
     <string name="berry_black_theme_title">Hitam</string>
     <string name="berry_black_theme_summary">Latar belakang hitam untuk tema gelap</string>
-    <string name="lineagelicense_title">Hukum LineageOS</string>
+    <string name="lineagelicense_title">Hukum AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Ketuk untuk tidur</string>
     <string name="status_bar_double_tap_to_sleep_summary">Ketukan ganda pada bilah status atau layar kunci untuk mematikan layar</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Temukan sensor sidik jari di bagian depan tablet Anda.</string>

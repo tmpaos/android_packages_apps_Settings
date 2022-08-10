@@ -29,7 +29,7 @@
     <string name="backup_transport_title">Kies back-up provider</string>
     <string name="berry_black_theme_title">Puur zwart</string>
     <string name="berry_black_theme_summary">Puur zwarte achtergrond voor donker thema</string>
-    <string name="lineagelicense_title">Juridische informatie van LineageOS</string>
+    <string name="lineagelicense_title">Juridische informatie van AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Tikken om te slapen</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dubbeltikken op de statusbalk of schermvergrendeling om het scherm uit te schakelen</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Vind de vingerafdruksensor op de voorkant van uw tablet.</string>

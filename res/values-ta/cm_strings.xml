@@ -21,7 +21,7 @@
     </plurals>
     <string name="show_dev_on_cm">நீங்கள் வளர்ச்சி அமைப்புகளை செயல்படுத்தினீர்கள்!</string>
     <string name="show_dev_already_cm">தேவை இல்லை, நீங்கள் முன்பே வளர்ச்சி அமைப்புகளை செயல்படுத்துவிட்டீர்கள்.</string>
-    <string name="lineagelicense_title">LineageOS சட்டம்</string>
+    <string name="lineagelicense_title">AxiomOS சட்டம்</string>
     <string name="increasing_ring_volume_option_title">ரிங் வால்யூமை அதிகரித்தல்</string>
     <string name="increasing_ring_min_volume_title">வால்யூமை தொடங்கு</string>
     <string name="increasing_ring_ramp_up_time_title">ராம்ப்-அப் நேரம்</string>

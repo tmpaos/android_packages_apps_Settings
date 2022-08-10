@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="show_dev_on_cm">Jūs įgalinote kūrėjo parinktys!</string>
     <string name="show_dev_already_cm">Nereikia, jūs jau įgalinote kūrėjo parinktys.</string>
-    <string name="lineagelicense_title">Teisinė „LineageOS“ informacija</string>
+    <string name="lineagelicense_title">Teisinė „AxiomOS“ informacija</string>
     <string name="increasing_ring_volume_option_title">Didėjantis skambėjimo garsumas</string>
     <string name="increasing_ring_min_volume_title">Pradinis garsumas</string>
     <string name="increasing_ring_ramp_up_time_title">Didėjimo laikas</string>

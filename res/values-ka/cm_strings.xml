@@ -29,7 +29,7 @@
     <string name="backup_transport_title">აირჩიეთ მარქაფის მომსახურება</string>
     <string name="berry_black_theme_title">სადა შავი</string>
     <string name="berry_black_theme_summary">სადა შავი ფონი მუქი იერსახისთვის</string>
-    <string name="lineagelicense_title">LineageOS – სამართლებრივი</string>
+    <string name="lineagelicense_title">AxiomOS – სამართლებრივი</string>
     <string name="status_bar_double_tap_to_sleep_title">შეხებით დაძინება</string>
     <string name="status_bar_double_tap_to_sleep_summary">მდგომარეობის ზოლზე ან ჩაკეტილზე ორმაგი შეხებით ეკრანის ჩაქრობა</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">მონახეთ თითის ანაბეჭდის აღმქმელი პლანშეტის წინა მხარეს.</string>

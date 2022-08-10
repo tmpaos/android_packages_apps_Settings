@@ -30,7 +30,7 @@
     <string name="backup_transport_title">Selectați furnizorul de backup</string>
     <string name="berry_black_theme_title">Negru pur</string>
     <string name="berry_black_theme_summary">Fundal negru pur pentru tema întunecată</string>
-    <string name="lineagelicense_title">Juridic LineageOS</string>
+    <string name="lineagelicense_title">Juridic AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Atingeți pentru sleep</string>
     <string name="status_bar_double_tap_to_sleep_summary">Atingeți de două ori bara de stare sau ecranul de blocare pentru a opri ecranul</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Găsiți senzorul de amprentă pe partea din faţă a tabletei.</string>

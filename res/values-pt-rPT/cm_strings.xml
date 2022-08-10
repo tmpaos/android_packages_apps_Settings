@@ -29,7 +29,7 @@
     <string name="backup_transport_title">Selecionar provedor de cópia de segurança</string>
     <string name="berry_black_theme_title">Preto puro</string>
     <string name="berry_black_theme_summary">Fundo em preto puro para tema escuro</string>
-    <string name="lineagelicense_title">Licença LineageOS</string>
+    <string name="lineagelicense_title">Licença AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Toque duplo para desligar o ecrã</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dê um toque duplo na barra de estado ou ecrã de bloqueio para desligar o ecrã</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Localize o sensor de impressões digitais na parte frontal do seu tablet.</string>

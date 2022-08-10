@@ -25,7 +25,7 @@
     <string name="show_dev_already_cm">Wystarczy, już jesteś programistą.</string>
     <string name="adb_enable_root">Debugowanie jako root</string>
     <string name="adb_enable_summary_root">Zezwól na debugowanie Androida jako root</string>
-    <string name="lineagelicense_title">Informacje prawne LineageOS</string>
+    <string name="lineagelicense_title">Informacje prawne AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Dotknij, by uśpić</string>
     <string name="status_bar_double_tap_to_sleep_summary">Kliknij dwukrotnie na pasku statusu lub ekranie blokady aby wyłączyć ekran</string>
     <string name="increasing_ring_volume_option_title">Narastająca głośność dzwonka</string>

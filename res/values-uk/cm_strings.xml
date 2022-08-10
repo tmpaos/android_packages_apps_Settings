@@ -21,7 +21,7 @@
     <string name="adb_enable_summary_root">Дозволити налагодження Android із правами суперкористувача</string>
     <string name="backup_transport_setting_label">Змінити провайдера резервного копіювання</string>
     <string name="backup_transport_title">Оберіть провайдера резервного копіювання</string>
-    <string name="lineagelicense_title">Політика конфіденційності LineageOS</string>
+    <string name="lineagelicense_title">Політика конфіденційності AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Торкніться для сну</string>
     <string name="status_bar_double_tap_to_sleep_summary">Двічі торкніть рядок стану чи екран блокування, щоб приспати екран</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Знайдіть сканер відбитків пальців спереду планшета.</string>

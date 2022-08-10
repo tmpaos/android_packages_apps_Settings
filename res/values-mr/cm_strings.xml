@@ -21,7 +21,7 @@
     </plurals>
     <string name="show_dev_on_cm">तुम्ही विकास सेटिंग्ज सक्षम केली आहेत!</string>
     <string name="show_dev_already_cm">गरज नाही, तुम्ही आधीच विकास सेटिंग्ज सक्षम केली आहेत.</string>
-    <string name="lineagelicense_title">LineageOS लिगल</string>
+    <string name="lineagelicense_title">AxiomOS लिगल</string>
     <string name="increasing_ring_volume_option_title">रिंग ध्वनी वाढवणे</string>
     <string name="increasing_ring_min_volume_title">प्रारंभ ध्वनी</string>
     <string name="increasing_ring_ramp_up_time_title">रॅम्प-अप वेळ</string>

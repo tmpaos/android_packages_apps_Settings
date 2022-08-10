@@ -28,7 +28,7 @@
     <string name="backup_transport_title">バックアップ プロバイダの選択</string>
     <string name="berry_black_theme_title">ピュアブラック</string>
     <string name="berry_black_theme_summary">ダークテーマ時に背景をピュアブラックにする</string>
-    <string name="lineagelicense_title">LineageOS 利用規約</string>
+    <string name="lineagelicense_title">AxiomOS 利用規約</string>
     <string name="status_bar_double_tap_to_sleep_title">ロック画面をタップしてスリープ状態にする</string>
     <string name="status_bar_double_tap_to_sleep_summary">ステータスバーかロックスクリーンをダブルタップしてディスプレイを消灯します</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">端末前面にある指紋認証センサーを探してください</string>

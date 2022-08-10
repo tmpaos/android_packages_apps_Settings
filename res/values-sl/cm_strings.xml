@@ -31,7 +31,7 @@
     <string name="backup_transport_title">Izberite ponudnika varnostnih kopij</string>
     <string name="berry_black_theme_title">Popolnoma črna</string>
     <string name="berry_black_theme_summary">Popolnoma črno ozadje za temno temo</string>
-    <string name="lineagelicense_title">Pravna obvestila LineageOS</string>
+    <string name="lineagelicense_title">Pravna obvestila AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Tap za spanje</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dvakrat tapnite na vrstico stanja ali zaklenjen zaslon, da izklopite zaslon</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Poiščite tipalo za prstne odtise na sprednji strani vašega tabličnega računalnika.</string>

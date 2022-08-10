@@ -21,7 +21,7 @@
     </plurals>
     <string name="show_dev_on_cm">Garatzaileen aukerak gaitu dituzu!</string>
     <string name="show_dev_already_cm">Ez da behar, aurretik gaitu dituzu garatzaileek aukerak.</string>
-    <string name="lineagelicense_title">LineageOS lizentzia</string>
+    <string name="lineagelicense_title">AxiomOS lizentzia</string>
     <string name="status_bar_double_tap_to_sleep_title">Sakatu lokartzeko</string>
     <string name="status_bar_double_tap_to_sleep_summary">Sakatu birritan egoera-barra edo blokeo-pantaila pantaila itzaltzeko</string>
     <string name="increasing_ring_volume_option_title">Dei doinu gorakorra</string>

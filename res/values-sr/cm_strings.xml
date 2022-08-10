@@ -24,7 +24,7 @@
     <string name="show_dev_already_cm">Нема потебе, опције за програмера су већ омогућене.</string>
     <string name="adb_enable_root">Откл. грешака с root приступом</string>
     <string name="adb_enable_summary_root">Дозволи покретање Android отклањања грешака као root</string>
-    <string name="lineagelicense_title">Политика приватности LineageOS-а</string>
+    <string name="lineagelicense_title">Политика приватности AxiomOS-а</string>
     <string name="status_bar_double_tap_to_sleep_title">Додир за спавање</string>
     <string name="status_bar_double_tap_to_sleep_summary">Додирните двапут на статусну траку или на закључани екран да бисте искључили екран</string>
     <string name="increasing_ring_volume_option_title">Појачавање јачине звука звона</string>

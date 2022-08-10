@@ -29,7 +29,7 @@
     <string name="backup_transport_title">Vali varunduste pakkuja</string>
     <string name="berry_black_theme_title">Täiesti must</string>
     <string name="berry_black_theme_summary">Täiesti must taust tumeda teema jaoks</string>
-    <string name="lineagelicense_title">LineageOS juriidiline info</string>
+    <string name="lineagelicense_title">AxiomOS juriidiline info</string>
     <string name="status_bar_double_tap_to_sleep_title">Koputa unerežiimiks</string>
     <string name="status_bar_double_tap_to_sleep_summary">Topeltkoputa olekuriba või lukustuskuva ekraani väljalülitamiseks</string>
     <string name="increasing_ring_volume_option_title">Kasvav helisemistugevus</string>

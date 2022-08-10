@@ -23,7 +23,7 @@
     </plurals>
     <string name="show_dev_on_cm">אפשרויות מפתח פעילות!</string>
     <string name="show_dev_already_cm">אין צורך. כבר הפעלת את אפשרויות המפתח.</string>
-    <string name="lineagelicense_title">LineageOS משפטי</string>
+    <string name="lineagelicense_title">AxiomOS משפטי</string>
     <string name="status_bar_double_tap_to_sleep_title">הקש בכדי לכבות מסך</string>
     <string name="status_bar_double_tap_to_sleep_summary">הקש פעמיים על שורת המצב או על מסך נעילה בכדי לכבות את המסך</string>
     <string name="increasing_ring_volume_option_title">עוצמת צלצול מתגברת</string>

@@ -27,7 +27,7 @@
     <string name="adb_enable_summary_root">Permite la execución de la depuración d\'Android como root</string>
     <string name="berry_black_theme_title">Prietu puro</string>
     <string name="berry_black_theme_summary">Un fondu en prieto puro pal estilu «Escuridá»</string>
-    <string name="lineagelicense_title">Información llegal de LineageOS</string>
+    <string name="lineagelicense_title">Información llegal de AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Tocar pa dormir</string>
     <string name="status_bar_double_tap_to_sleep_summary">Toca dos vegaes na barra d\'estáu o na pantalla de bloquéu p\'apagar la pantalla</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Atopa\'l sensor de buelgues na parte d\'alantre de la tableta.</string>

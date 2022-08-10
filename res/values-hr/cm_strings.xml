@@ -24,7 +24,7 @@
     <string name="show_dev_already_cm">Nema potrebe, već ste omogućili postavke za razvoj.</string>
     <string name="keyboard_extras_title">Dodatno</string>
     <string name="advanced_keyboard_settings_title">Napredne postavke</string>
-    <string name="lineagelicense_title">LineageOS licenca</string>
+    <string name="lineagelicense_title">AxiomOS licenca</string>
     <string name="status_bar_double_tap_to_sleep_title">Dodir za spavanje</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dvaput dodirnite traku statusa na zaključanom zaslonu za isključivanje zaslona</string>
     <string name="increasing_ring_volume_option_title">Pojačavanje glasnoće zvona</string>

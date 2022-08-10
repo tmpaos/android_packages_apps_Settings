@@ -29,7 +29,7 @@
     <string name="backup_transport_title">Επιλέξτε πάροχο αντιγράφων ασφαλείας</string>
     <string name="berry_black_theme_title">Αμιγές μαύρο</string>
     <string name="berry_black_theme_summary">Αμιγές μαύρο παρασκήνιο για το σκοτεινό θέμα</string>
-    <string name="lineagelicense_title">Νομικές πληροφορίες LineageOS</string>
+    <string name="lineagelicense_title">Νομικές πληροφορίες AxiomOS</string>
     <string name="status_bar_double_tap_to_sleep_title">Πατήστε για αναστολή</string>
     <string name="status_bar_double_tap_to_sleep_summary">Πατήστε δύο φορές στη γραμμή κατάστασης ή την οθόνη κλειδώματος για αναστολή της συσκευής</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Εντοπίστε τον αισθητήρα δακτυλικού αποτυπώματος στο εμπρόσθιο μέρος του τάμπλετ σας.</string>

@@ -21,7 +21,7 @@
     </plurals>
     <string name="show_dev_on_cm">Du har aktivert innstillinger for utviklere!</string>
     <string name="show_dev_already_cm">Ikke nødvendig, du allerede har aktivert utviklingsinnstillinger.</string>
-    <string name="lineagelicense_title">LineageOS juridisk</string>
+    <string name="lineagelicense_title">AxiomOS juridisk</string>
     <string name="increasing_ring_volume_option_title">Økende ringevolum</string>
     <string name="increasing_ring_min_volume_title">Start volum</string>
     <string name="increasing_ring_ramp_up_time_title">Ramp-up tid</string>

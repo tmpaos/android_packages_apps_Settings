@@ -27,7 +27,7 @@
     <string name="adb_enable_summary_root">Tillad kørsel af Android fejlretning som \'root\'</string>
     <string name="backup_transport_setting_label">Skift backup udbyder</string>
     <string name="backup_transport_title">Vælg backup udbyder</string>
-    <string name="lineagelicense_title">LineageOS-juridisk</string>
+    <string name="lineagelicense_title">AxiomOS-juridisk</string>
     <string name="status_bar_double_tap_to_sleep_title">Tryk for at slumre</string>
     <string name="status_bar_double_tap_to_sleep_summary">Dobbelt-tryk på statusbjælken eller låseskærmen, for at slukke for skærmen</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Find fingeraftrykssensoren på tablet\'ens forside.</string>

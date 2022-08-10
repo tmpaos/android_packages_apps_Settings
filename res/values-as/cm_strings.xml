@@ -21,7 +21,7 @@
     </plurals>
     <string name="show_dev_on_cm">আপুনি ডেভেলপমেণ্ট ছেটিংচ সক্ষম কৰিলে!</string>
     <string name="show_dev_already_cm">আৱশ্যক নাই, আপুনি ইতিমধ্যে ডেভেলপমেণ্ট ছেটিংচ সক্ষম কৰিলে।</string>
-    <string name="lineagelicense_title">LineageOS আইনী</string>
+    <string name="lineagelicense_title">AxiomOS আইনী</string>
     <string name="increasing_ring_volume_option_title">ৰিং ভলিউম বৃদ্ধি কৰক</string>
     <string name="increasing_ring_min_volume_title">ৰিং ভলিউম</string>
     <string name="increasing_ring_ramp_up_time_title">ৰেম্প-আপ সময়</string>

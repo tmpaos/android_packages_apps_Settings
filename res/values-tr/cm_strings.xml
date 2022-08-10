@@ -29,7 +29,7 @@
     <string name="backup_transport_title">Yedekleme sağlayıcısını seçin</string>
     <string name="berry_black_theme_title">Saf siyah</string>
     <string name="berry_black_theme_summary">Karanlık tema için saf siyah arka plan</string>
-    <string name="lineagelicense_title">LineageOS yasal</string>
+    <string name="lineagelicense_title">AxiomOS yasal</string>
     <string name="status_bar_double_tap_to_sleep_title">Uyutmak için dokunun</string>
     <string name="status_bar_double_tap_to_sleep_summary">Ekranı kapatmak için durum çubuğuna veya kilit ekranına çift dokunun</string>
     <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Tabletinizin önündeki parmak izi sensörünü bulun.</string>
